@@ -30,20 +30,3 @@ A multi-disciplinary professional blending technical expertise in **Full-stack D
 
 ---
 
-### 📊 Performance Metrics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindu-Hettiarachchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Hettiarachchi&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Hettiarachchi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravindu" height="30" width="40" /></a>
-<a href="mailto:ravinduhettiarachchi132@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Ravindu" height="30" width="40" /></a>
-</p>
