@@ -18,7 +18,7 @@ A multi-disciplinary professional blending technical expertise in **Full-stack D
 
 | **Development & Logic** | **Design & Motion** |
 | :--- | :--- |
-| [![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js,git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps,ae,pr,ai,illustrator)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js,git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps,ae,pr,illustrator)](https://skillicons.dev) |
 
 ---
 
