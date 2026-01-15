@@ -2,6 +2,7 @@
 🎓 IT Undergraduate at SLIIT 
 🚀 Owner of PixBee Labs
 
+[![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js,figma,ps,ae,pr)](https://skillicons.dev)
 <!--
 **Ravindu-Hettiarachchi/Ravindu-Hettiarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
