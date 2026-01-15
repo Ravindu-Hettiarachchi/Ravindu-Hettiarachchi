@@ -3,6 +3,10 @@
 🚀 Owner of PixBee Labs
 
 [![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js,figma,ps,ae,pr)](https://skillicons.dev)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 <!--
 **Ravindu-Hettiarachchi/Ravindu-Hettiarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
