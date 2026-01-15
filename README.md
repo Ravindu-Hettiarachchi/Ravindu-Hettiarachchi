@@ -1,28 +1,52 @@
-# 👋 Hi, I'm Ravindu Hettiarachchi
-
-### 🚀 IT Undergraduate at SLIIT | Programmer | Designer | Editor
-I am a passionate developer and creative professional currently pursuing my BSc (Hons) in IT. I balance my academic life with running my own creative businesses.
-
----
-
-### 🛠️ What I'm Working On
-
-- 🎨 **PixBee Labs**: Providing professional  develiping , graphic design and video editing services.
+<div align="center">
+  <h1>Hey there! I'm Ravindu Hettiarachchi 🚀</h1>
+  <p><strong>Full-Stack Developer | Creative Director | IT Undergraduate at SLIIT</strong></p>
+</div>
 
 ---
 
-### 💻 My Tech Stack
-**Programming & Frameworks**
+### ⚡ About Me
+A multi-disciplinary professional blending technical expertise in **Full-stack Development** with creative mastery in **Design & Post-Production**. Currently pursuing a BSc (Hons) in IT while scaling digital solutions for the Sri Lankan market.
 
-[![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js)](https://skillicons.dev)
-
-**Design & Creative**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ae,pr)](https://skillicons.dev)
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+- 🎓 **Education:** Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)
+- 🏢 **Founder of:** **PixBee Labs** (Digital Agency)
+- 💬 **Ask me about:** Java, Next.js, and Creative Design.
 
 ---
 
+### 🛠️ Professional Arsenal
+
+| **Development & Logic** | **Design & Motion** |
+| :--- | :--- |
+| [![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js,git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps,ae,pr,ai,illustrator)](https://skillicons.dev) |
+
+---
+
+### 🚀 Business Ventures & Projects
+
+- **[PixBee Labs](https://github.com/your-org)** - *Founder & Lead Developer*
+  - Digital transformation through high-end web development, graphic design, and video editing.
+- **Pixbee Marketplace** - *In Development*
+  - A specialized platform built with Next.js and Supabase to empower Sri Lankan freelancers.
+- **MR Apparel** - *Manufacturing & Design*
+  - Managing high-quality custom T-shirt production and apparel branding.
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravindu" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Ravindu" height="30" width="40" /></a>
+</p>
