@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Ravindu Hettiarachchi 
+🎓 IT Undergraduate at SLIIT 
+🚀 Owner of PixBee Labs
 
 <!--
 **Ravindu-Hettiarachchi/Ravindu-Hettiarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
