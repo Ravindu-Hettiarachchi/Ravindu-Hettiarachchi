@@ -13,9 +13,11 @@ I am a passionate developer and creative professional currently pursuing my BSc 
 
 ### 💻 My Tech Stack
 **Programming & Frameworks**
+
 [![My Skills](https://skillicons.dev/icons?i=java,nextjs,react,supabase,html,css,js)](https://skillicons.dev)
 
 **Design & Creative**
+
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ae,pr)](https://skillicons.dev)
 ---
 
