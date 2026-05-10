@@ -24,7 +24,7 @@ A multi-disciplinary professional blending technical expertise in **Full-stack D
 
 ### 🚀 Business Ventures & Projects
 
-- **[PixBee Labs](https://github.com/your-org)** - *Founder & Lead Developer*
+- **[PixBee Labs](www.pixbeelabs.com)** - *Founder & Lead Developer*
   - Digital transformation through high-end web development, graphic design, and video editing.
 
 
